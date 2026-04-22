@@ -2,6 +2,10 @@
 title: Invited Speakers
 nav: Invited Speakers
 ---
+{% include figure.html img="Busso.png" alt="Busso" caption="Prof. Carlos Busso" width="30%" %}
+**Speech Title: To Be Announced**
+Carlos Busso is an IEEE Fellow and ISCA Fellow. He is a Professor at Language Technology Institute, Carnegie Mellon University, where he is also the director of the Multimodal Speech Processing Laboratory. Before joining CMU, he was a factuly member at the University of Texas at Dallas (UTD), where he served as an Assistant Professor (2009-2015), Associate Professor (2015-2020), and Full Professor (2020-2024) in the Department of Electrical and Computer Engineering. His research focuses on human-centered multimodal machine intelligence and its applications in speech-based interfaces. His work explores cutting-edge topics including speech and multimodal processing, affective computing, and social signal processing. His work has resulted in awards and recognitions including ACM ICMI Community Service Award, SIPI Distinguished Alumni Award, NSF Career Award, and Best Paper Awards in IEEE Transactions on Affective Computing 2023, ACII 2017, and ICME 2011. He is the current chair of the Steering Committee of ICMI.
+
 {% include figure.html img="Otsuka.png" alt="Otsuka" caption="Prof. Kazuhiro Otsuka" width="30%" %}
 **Speech Title: Nonverbal Functional Spectrum Analysis and Beyond: Exploring Complex Group Dynamics Through Diverse Multimodal Functional Cues**
 
