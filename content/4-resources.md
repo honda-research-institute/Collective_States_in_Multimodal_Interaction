@@ -6,7 +6,7 @@ nav: Organizers
 {% include figure.html img="Misu.jpg" alt="Misu" caption="Teruhisa Misu" width="30%" %}
 Chief Scientist, Honda Research Institute USA (HRI-US). Teruhisa Misu received his Ph.D. in Informatics from Kyoto University in 2008. He leads a research team on human-centered intelligence and multimodal human–machine interaction at HRI-US. His work spans dialogue systems, multimodal interfaces, and understanding human states.
 
-{% include figure.html img="Varni.jpg" alt="Varni" caption="Giovanna Varni" width="30%" %}
+{% include figure.html img="Varni.png" alt="Varni" caption="Giovanna Varni" width="30%" %}
 Associate Professor, University of Trento, Italy. Giovanna Varni earned her PhD in Electronic, Computer and Telecommunication Engineering from the University of Genoa in 2009. She is an interdisciplinary researcher mainly investigating Social Signal Processing, Affective Computing, and Human Computer Interaction. She was one of the co-organizers of the Insights on Group & Team Dynamics Workshop hosted by ICMI 2021 and ICMI 2020.
 
 {% include figure.html img="Inoue.jpg" alt="Inoue" caption="Koji Inoue" width="30%" %}
