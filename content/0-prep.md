@@ -25,11 +25,11 @@ We invite authors to submit papers in accordance with the ICMI formats and guide
 
 Importnat Dates:
 
-Paper Submission		**July 23rd, 2026**
+Paper Submission Deadline		**July 17th, 2026** (End of Day, Anywhere on Earth)
 
-Paper Notification		**August 24th, 2026**
+Paper Notification		**July 27th, 2026**
 
-Camera Ready			**August 31st, 2026** 
+Camera Ready			**August 2nd, 2026** 
 
 Workshop Day			**October 9th, 2026**
 
