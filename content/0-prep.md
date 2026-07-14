@@ -27,7 +27,7 @@ Importnat Dates:
 
 Paper Submission Deadline		**July 17th, 2026** (End of Day, Anywhere on Earth)
 
-Paper Notification		**July 27th, 2026**
+Paper Notification		**July 29th, 2026**
 
 Camera Ready			**August 2nd, 2026** 
 
