@@ -33,4 +33,7 @@ Camera Ready			**August 2nd, 2026**
 
 Workshop Day			**October 9th, 2026**
 
-More information about submission instructions and presentation format will be announced soon.
+
+Submission method:
+In the ICMI submission system (https://new.precisionconference.com/submissions/icmi26a), you can select SIGCHI (Society), ICMI 2026 (Conference/Journal), and ICMI 2026 Workshop: Collective States (Track) to make a new submission for this workshop. 
+ 
