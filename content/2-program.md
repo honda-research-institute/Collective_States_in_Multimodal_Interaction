@@ -23,3 +23,4 @@ Long papers: 12 min talk + 3 min Q&A · Short papers: 7 min talk + 3 min Q&A
 | 12:05 | **Long Paper** | Acoustic and Linguistic Analysis of Objective and Subjective Team Functioning Outcomes <br><sub>WSCS_1009</sub> |
 | 12:20 | **Long Paper** | Adaptive Human–AI Collaboration: A Review of Multimodal Context Modeling, Uncertainty-Aware Intervention, and Longitudinal Co-Adaptation <br><sub>WSCS_1011</sub> |
 | 12:35 | **Closing** | Summary, future directions, announcements, and acknowledgements |
+{: .table .align-middle}
