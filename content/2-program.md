@@ -1,4 +1,7 @@
-## Program
+---
+title: Program
+nav: Program
+---
 
 **Friday, October 9, 2026 · 08:30–12:45** · Room TBA · All times local (UTC+X)
 
