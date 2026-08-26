@@ -14,7 +14,7 @@ Long papers: 12 min talk + 3 min Q&A · Short papers: 7 min talk + 3 min Q&A
 | 09:25 | **Long Paper** | Multimodal Temporal Modeling for Continuous Group Emotion Recognition in Multi-party Dialogues <br><sub>WSCS_1007</sub> |
 | 09:40 | **Long Paper** | Empathic Coalescence Analysis of Group Dynamics in Small-Group Consensus-Building Discussions <br><sub>WSCS_1008</sub> |
 | 09:55 | *Transition* | Announcements and schedule buffer |
-| **10:00** | ☕ **Coffee Break** | Conference-provided refreshments and pastries (30 min) |
+| 10:00 | ☕ **Coffee Break** | Conference-provided refreshments and pastries (30 min) |
 | 10:30 | **Short Paper** | Analyzing Speaker-Role Representations in LLMs for Group Discussions <br><sub>WSCS_1013</sub> |
 | 10:40 | **Short Paper** | Beyond Call and Response: Modelling Reciprocal Coordination in Human–AI Vocal Ensembles <br><sub>WSCS_1015</sub> |
 | 10:50 | **Invited Talk 2** | **Prof. Carlos Busso** — *Title TBA* |
